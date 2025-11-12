@@ -18,19 +18,5 @@ For the full manuscript, see TBC.
 For data repository: https://figshare.com/account/articles/30604517
 
 ## Repository Structure
-PODXL-Ezrin-Interaction-Modeling/
-├── data/
-│   ├── structures/          # PDB files: AlphaFold models, docked complexes (WT & R495W)
-│   ├── trajectories/        # MD outputs: DCD/PSF files (20/100 ns simulations)
-│   └── ligands/             # SMILES/PDBQT: Screening library & top hits (e.g., NSC305787, THC)
-├── scripts/
-│   ├── docking/             # HADDOCK/AutoDock scripts for complex/ligand docking
-│   ├── md_simulations/      # OpenMM/GROMACS input scripts & analysis (RMSD, RMSF, Rg)
-│   ├── analysis/            # Python/MDAnalysis scripts for inter-residue distances & visualizations
-│   └── virtual_screening/   # Screening workflow with in-house library curation
-├── figures/
-│   └── manuscript/          # Reproducible plots: Ramachandran, RMSD/RMSF trajectories, interaction maps
-├── docs/
-│   └── workflow.md          # Detailed pipeline schematic (as in Figure 1)
-├── requirements.txt         # Dependencies: Python 3.13, MDAnalysis, PyMOL, etc.
-└── README.md                # This file
+<img width="1186" height="412" alt="image" src="https://github.com/user-attachments/assets/3995250d-e760-433f-b5f5-bd67b3590e27" />
+

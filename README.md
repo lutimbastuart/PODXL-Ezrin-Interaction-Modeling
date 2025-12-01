@@ -6,7 +6,7 @@ Computational modeling and virtual screening study elucidating the structural dy
 ## Overview
 This repository accompanies the manuscript **"Structural and Dynamic Insights into Podocalyxin-Ezrin Interaction as a Target in Cancer Progression"** by Mila Milutinovic, Stuart Lutimba, and Mohammed A. Mansour (London South Bank University, 2025). 
 
-The study employs an integrated computational pipeline—including protein-protein docking (HADDOCK 2.4), molecular dynamics (MD) simulations (OpenMM 8.1.2 & GROMACS 2024.2), and virtual screening (AutoDock 4.2.6) to characterize the PODXL-Ezrin interface. Key contributions:
+The study employs an integrated computational pipeline including protein-protein docking (HADDOCK 2.4), molecular dynamics (MD) simulations (OpenMM 8.1.2 & GROMACS 2024.2), and virtual screening (AutoDock 4.2.6) to characterize the PODXL-Ezrin interface. Key contributions:
 - **Structural Modeling**: AlphaFold-predicted full-length models of PODXL (residues 322–558) and Ezrin, with stereochemical validation via Ramachandran plots.
 - **Mutation Analysis**: Impact of the clinically relevant R495W mutation in PODXL's cytoplasmic domain, revealing allosteric destabilization of Ezrin's dormant state (e.g., increased F3-C-terminal distance from 2.59 Å to 3.40 Å).
 - **Dynamic Insights**: 100 ns MD for wild-type (WT) and 20 ns for mutant complexes, showing enhanced rigidity (RMSD: 10.30 Å vs. 12.08 Å) and pre-C-terminal loop engagement in the mutant.

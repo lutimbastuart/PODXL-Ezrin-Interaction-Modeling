@@ -15,7 +15,8 @@ The study employs an integrated computational pipeline including protein-protein
 These findings highlight the PODXL-Ezrin complex as a "druggable" target for PODXL-altered cancers (e.g., pancreatic), potentially disrupting EMT and metastasis.
 
 For the full manuscript, see TBC.
-Data Availability Notice
+
+## Data Availability Notice
 
 The image and structural data files associated with the molecular
 dynamics simulation analysis (Figures S1–S9) are openly available on

@@ -1,8 +1,6 @@
 # PODXL-Ezrin-Interaction-Modeling
 Computational modeling and virtual screening study elucidating the structural dynamics of Podocalyxin (PODXL)-Ezrin interactions, with a focus on the R495W mutation's role in cancer metastasis. Includes docked models, MD simulation trajectories, and hit compounds for therapeutic targeting.
 
-
-
 ## Overview
 This repository accompanies the manuscript **"Structural and Dynamic Insights into Podocalyxin-Ezrin Interaction as a Target in Cancer Progression"** by Mila Milutinovic, Stuart Lutimba, and Mohammed A. Mansour (London South Bank University, 2025). 
 
